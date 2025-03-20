@@ -41,8 +41,7 @@ A web-based application for managing blood donations, donor details, and blood b
      http://localhost/BMS/
      ```
 
-### 📸 Screenshots
-_Add relevant images of the dashboard, donor management, and user interfaces._  
+  
 
 ### 🤝 Contribution
 Feel free to contribute! Fork the repo, create a new branch, and submit a pull request.  
