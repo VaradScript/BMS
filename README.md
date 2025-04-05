@@ -41,7 +41,8 @@ A web-based application for managing blood donations, donor details, and blood b
      http://localhost/BMS/
      ```
 
-  
+  ### make database setup in phpmyadmin
+  mysql..
 
 ### 🤝 Contribution
 Feel free to contribute! Fork the repo, create a new branch, and submit a pull request.  
