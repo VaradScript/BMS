@@ -38,7 +38,7 @@ A web-based application for managing blood donations, donor details, and blood b
    - Place the project folder in `htdocs` (for XAMPP).  
    - Open in the browser:  
      ```
-     http://localhost/BMS/
+     http:8080//localhost/BMS/
      ```
 
   ### make database setup in phpmyadmin
